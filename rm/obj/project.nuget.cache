@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1WR3nr/KJuWe6AvpBBTIm4t1lnKBtRG12vggY9DJU0sIrftb9UuPdd80ByfP3/Lu/NiypueO0kgzEa8TSrv4Uw==",
+  "success": true,
+  "projectFilePath": "F:\\git_hub\\random_massive\\rm\\rm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TedTv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}

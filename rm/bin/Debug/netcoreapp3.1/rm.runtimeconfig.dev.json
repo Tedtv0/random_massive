@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\TedTv\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TedTv\\.nuget\\packages"
+    ]
+  }
+}

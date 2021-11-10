@@ -1,0 +1,13 @@
+F:\git_hub\random_massive\rm\bin\Debug\netcoreapp3.1\rm.exe
+F:\git_hub\random_massive\rm\bin\Debug\netcoreapp3.1\rm.deps.json
+F:\git_hub\random_massive\rm\bin\Debug\netcoreapp3.1\rm.runtimeconfig.json
+F:\git_hub\random_massive\rm\bin\Debug\netcoreapp3.1\rm.runtimeconfig.dev.json
+F:\git_hub\random_massive\rm\bin\Debug\netcoreapp3.1\rm.dll
+F:\git_hub\random_massive\rm\bin\Debug\netcoreapp3.1\rm.pdb
+F:\git_hub\random_massive\rm\obj\Debug\netcoreapp3.1\rm.csproj.AssemblyReference.cache
+F:\git_hub\random_massive\rm\obj\Debug\netcoreapp3.1\rm.AssemblyInfoInputs.cache
+F:\git_hub\random_massive\rm\obj\Debug\netcoreapp3.1\rm.AssemblyInfo.cs
+F:\git_hub\random_massive\rm\obj\Debug\netcoreapp3.1\rm.csproj.CoreCompileInputs.cache
+F:\git_hub\random_massive\rm\obj\Debug\netcoreapp3.1\rm.dll
+F:\git_hub\random_massive\rm\obj\Debug\netcoreapp3.1\rm.pdb
+F:\git_hub\random_massive\rm\obj\Debug\netcoreapp3.1\rm.genruntimeconfig.cache
